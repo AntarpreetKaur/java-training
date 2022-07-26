@@ -1,0 +1,19 @@
+/* Q2. => Examples of Class name = 1. MyWorld{}
+                                                     2.ClassMethods{}
+
+          Examples of Function name = 1.  myWorld()
+                                                         2.  classTest()
+
+          Examples of Variable = 1. myName
+                                               2. thisTest
+
+          Examples of Static variable = 1. MY_WORLD
+                                                        2. THIS_CLASS
+
+
+Q3. => 1)  .java file is not a executable file.it is a source code.
+             .class file is the executable file of .java file.
+
+2)  Java is not purely OOP's Programming language beacuase of primitive datatypes.
+
+3) Wrapper Classes - Wrapper classes are those which provides a way to use primitive data types as objects. Examples are - Integer to integer ,byte to byte etc.
